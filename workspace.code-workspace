@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\F8_web"
+		},
+		{
+			"path": "..\\Homework"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Homework",
+		"files.associations": {
+			"ostream": "cpp"
+		}
+	}
+}
